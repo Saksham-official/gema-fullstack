@@ -74,7 +74,7 @@ export default function Footer() {
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500">
           <p>© {currentYear} Kidrove. All rights reserved.</p>
           <p className="flex items-center gap-1 mt-2 md:mt-0">
-            Crafted with <Heart className="w-3.5 h-3.5 text-red-500 fill-red-500" /> for young builders.
+            Developed by Saksham. Crafted with <Heart className="w-3.5 h-3.5 text-red-500 fill-red-500" /> for young builders.
           </p>
         </div>
       </div>
